@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "133264397797",
+    "firebase_url": "https://zaarapp-970ba.firebaseio.com",
+    "project_id": "zaarapp-970ba",
+    "storage_bucket": "zaarapp-970ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133264397797:android:15c678d075b7cd33",
+        "android_client_info": {
+          "package_name": "com.fahim.zaarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133264397797-oq5amgpggol68fgnggs8ncme17fvkf69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fahim.zaarapp",
+            "certificate_hash": "709285fefcc39d090259842eea5faf6c8442ffef"
+          }
+        },
+        {
+          "client_id": "133264397797-93boei0lrtjpmsedg2l7hfdnvau905ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2m1g_id40hfoK_nJ4MvmmJv_dPk3Ehs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133264397797-93boei0lrtjpmsedg2l7hfdnvau905ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
