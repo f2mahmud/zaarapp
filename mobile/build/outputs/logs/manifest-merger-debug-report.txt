@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:1:1-21:12
+MERGED from [com.android.support:design:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/3d72512c35dc6467e34531fb0ae2975b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4f7818ea729680e40c24a0b102a22bbc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/16d61e392096a7f7202b955230218b1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/1a578180ba93f59ba2ca2d7224b7116f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/02e156176113868c8c68d1e9bce50344/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d6cb70635823419855279b3e9ac501f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4c6425b98b3d62cd4a6642b0a15a5282/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/854d0d5a4d12bbffda735d1c8defaaec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/01456580f8075391c08dc420e0345784/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/074b929768cee4a0762db5f7199eba80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3ef5f0419c9a0a024e6ad5f23d4fd65a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/946b6f82729afec82dae341ae1244544/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5784f5c894845e8e043e5e5b335bc187/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2229ab2551f394c43a1c573b1120b179/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2dfd78834ea86647117af73806fc8050/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7ba859585f0ac62184b44800dac6599e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cf120ba903f8422f274f2d74020f5697/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b3b221155c107e97d3fc7f7eef1ed3d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d00fb63e5fc62c1c26b1617c30af3225/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/afd91979161afa9f9d3dd0c84720f58d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0cc0091ddc9aaa0dc799728eef63afd1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/52b817c23cc00945eeb9a1722e83dcc9/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3044a39aec6e3f02d3ac6d762a6657c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/16f533fe5030aad787fb93156e900357/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2833d278a4210213c19653d11c8407d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/895e3aca3aff0ed8dc427152ed2d20c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/447a116a3f292ed938d4fd6426c88531/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6bcdde91feb27b2429bec0c1d1fe1449/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f0f24ffdc1f832c6f2964064fa6fae53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1741531d8b01fe83262b5df160535473/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7ee928876323c1093953c1ec057d6f66/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/86381157b7772fd964191411513b5661/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dac70b5b7765d724941c24377ad31c93/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:1:1-21:12
+INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:1:1-21:12
+	package
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:2:11-45
+		INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:1:1-21:12
+		INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:1:1-21:12
+		INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:3:5-20:19
+MERGED from [com.android.support:design:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/3d72512c35dc6467e34531fb0ae2975b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/3d72512c35dc6467e34531fb0ae2975b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0cc0091ddc9aaa0dc799728eef63afd1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0cc0091ddc9aaa0dc799728eef63afd1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/52b817c23cc00945eeb9a1722e83dcc9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/52b817c23cc00945eeb9a1722e83dcc9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0cc0091ddc9aaa0dc799728eef63afd1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:7:18-44
+	android:label
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:4:18-50
+	android:roundIcon
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:6:18-63
+	android:icon
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:5:18-52
+	android:allowBackup
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:3:18-44
+	android:theme
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:8:18-49
+activity#com.mahmud.fahim.zaarapp.Home
+ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:12:17-49
+	android:name
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:11:17-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/3d72512c35dc6467e34531fb0ae2975b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/3d72512c35dc6467e34531fb0ae2975b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4f7818ea729680e40c24a0b102a22bbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4f7818ea729680e40c24a0b102a22bbc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/16d61e392096a7f7202b955230218b1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-v13-28.0.0.aar/16d61e392096a7f7202b955230218b1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/1a578180ba93f59ba2ca2d7224b7116f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/1a578180ba93f59ba2ca2d7224b7116f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/02e156176113868c8c68d1e9bce50344/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/02e156176113868c8c68d1e9bce50344/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d6cb70635823419855279b3e9ac501f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/d6cb70635823419855279b3e9ac501f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4c6425b98b3d62cd4a6642b0a15a5282/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/4c6425b98b3d62cd4a6642b0a15a5282/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/854d0d5a4d12bbffda735d1c8defaaec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/854d0d5a4d12bbffda735d1c8defaaec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/01456580f8075391c08dc420e0345784/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/01456580f8075391c08dc420e0345784/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/074b929768cee4a0762db5f7199eba80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/074b929768cee4a0762db5f7199eba80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3ef5f0419c9a0a024e6ad5f23d4fd65a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3ef5f0419c9a0a024e6ad5f23d4fd65a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/946b6f82729afec82dae341ae1244544/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/946b6f82729afec82dae341ae1244544/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5784f5c894845e8e043e5e5b335bc187/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/5784f5c894845e8e043e5e5b335bc187/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2229ab2551f394c43a1c573b1120b179/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2229ab2551f394c43a1c573b1120b179/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2dfd78834ea86647117af73806fc8050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2dfd78834ea86647117af73806fc8050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7ba859585f0ac62184b44800dac6599e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/7ba859585f0ac62184b44800dac6599e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cf120ba903f8422f274f2d74020f5697/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cf120ba903f8422f274f2d74020f5697/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b3b221155c107e97d3fc7f7eef1ed3d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b3b221155c107e97d3fc7f7eef1ed3d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d00fb63e5fc62c1c26b1617c30af3225/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d00fb63e5fc62c1c26b1617c30af3225/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/afd91979161afa9f9d3dd0c84720f58d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/afd91979161afa9f9d3dd0c84720f58d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0cc0091ddc9aaa0dc799728eef63afd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0cc0091ddc9aaa0dc799728eef63afd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/52b817c23cc00945eeb9a1722e83dcc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/52b817c23cc00945eeb9a1722e83dcc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3044a39aec6e3f02d3ac6d762a6657c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3044a39aec6e3f02d3ac6d762a6657c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/16f533fe5030aad787fb93156e900357/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/16f533fe5030aad787fb93156e900357/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2833d278a4210213c19653d11c8407d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2833d278a4210213c19653d11c8407d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/895e3aca3aff0ed8dc427152ed2d20c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/895e3aca3aff0ed8dc427152ed2d20c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/447a116a3f292ed938d4fd6426c88531/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/447a116a3f292ed938d4fd6426c88531/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6bcdde91feb27b2429bec0c1d1fe1449/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6bcdde91feb27b2429bec0c1d1fe1449/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f0f24ffdc1f832c6f2964064fa6fae53/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f0f24ffdc1f832c6f2964064fa6fae53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1741531d8b01fe83262b5df160535473/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fahim/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1741531d8b01fe83262b5df160535473/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7ee928876323c1093953c1ec057d6f66/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7ee928876323c1093953c1ec057d6f66/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/86381157b7772fd964191411513b5661/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/86381157b7772fd964191411513b5661/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dac70b5b7765d724941c24377ad31c93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fahim/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dac70b5b7765d724941c24377ad31c93/AndroidManifest.xml:20:5-44
+INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+		ADDED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/fahim/AndroidStudioProjects/Zaarapp/mobile/src/main/AndroidManifest.xml
